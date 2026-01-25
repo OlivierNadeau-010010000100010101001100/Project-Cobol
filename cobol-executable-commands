@@ -1,0 +1,3 @@
+cobc -x -free -o [program-id] [file-name.cob]
+
+./[program-id]
